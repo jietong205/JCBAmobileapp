@@ -1,0 +1,47 @@
+{
+  "asdasdasd109": {
+    "username": "asdasdasd109",
+    "password": "asdadsads",
+    "created": "2021-04-01 09-30-47"
+  },
+  "benjamin": {
+    "username": "benjamin",
+    "password": "123456",
+    "created": "2021-02-11 13-32-25"
+  },
+  "u3": {
+    "created": "2021-02-08 16-59-11",
+    "password": "p3\n",
+    "username": "u3"
+  },
+  "u4\t": {
+    "username": "u4\t",
+    "password": "p4",
+    "created": "2021-02-08 17-31-41"
+  },
+  "u5": {
+    "username": "u5",
+    "password": "p5",
+    "created": "2021-02-08 17-34-59"
+  },
+  "u7": {
+    "username": "u7",
+    "password": "u7",
+    "created": "2021-02-08 17-36-11"
+  },
+  "u9": {
+    "username": "u9",
+    "password": "u0",
+    "created": "2021-02-08 17-42-42"
+  },
+  "user1": {
+    "username": "u1",
+    "password": "p1",
+    "created": "2018-07-07 00:16:28.293901"
+  },
+  "user2": {
+    "username": "u2",
+    "password": "p2",
+    "created": "2018-07-07 00:28:07.315781"
+  }
+}
